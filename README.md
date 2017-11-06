@@ -1,5 +1,5 @@
 # Projeto_Barzinho
-Projeto desenvolvido por mim, Caio Lazarini Morceli, no meu 3° período da faculdade (2016).
+Projeto desenvolvido por mim, Caio Lazarini Morceli, utilizando a ferramenta Visual Studio no meu 3° período da faculdade (2016).
 
 O sitema foi feito utilizando C# e o banco de dados SQLite. Ele simula as tarefas de um bar/lanchonete/restaurante como por exemplo o gerenciamento de produtos, o gerenciamento de estoque, o gerenciamento de vendas, o gerenciamento das porções que são feitas na cozinha do estabelecimento e também os relatórios referente às vendas.
 
